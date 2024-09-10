@@ -43,7 +43,7 @@ def main():
   x > Salir'''
     while True:
         print(menu)
-        op = input("Por Favor Loco Que opcion desea : ")
+        op = input("Por Favor Loco1 Que opcion desea : ")
         if op == '0':
             lamp.apagar()
         elif op == '1':
